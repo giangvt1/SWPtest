@@ -1,0 +1,30 @@
+==================================================
+ID                   | Name                 | Class                | Tag Name        | Full XPath
+==================================================
+                     |                      | logo                 | a               | /html/body/header/div/a
+                     |                      |                      | a               | /html/body/header/div/nav/a
+                     |                      | dropbtn              | button          | /html/body/header/div/nav/div/button
+                     |                      |                      | a               | /html/body/header/div/nav/div/div/a
+                     |                      |                      | a               | /html/body/header/div/nav/div/div/a[2]
+                     |                      |                      | a               | /html/body/header/div/nav/div/div/a[3]
+                     |                      |                      | a               | /html/body/header/div/nav/div/div/a[4]
+                     |                      |                      | a               | /html/body/header/div/nav/div/div/a[5]
+                     |                      |                      | a               | /html/body/header/div/nav/div/div/a[6]
+                     |                      |                      | a               | /html/body/header/div/nav/a[2]
+                     |                      |                      | a               | /html/body/header/div/nav/a[3]
+                     |                      | cart-icon            | a               | /html/body/header/div/div/a
+                     |                      | logout-btn           | a               | /html/body/header/div/div/a[2]
+                     |                      | btn                  | a               | /html/body/main/div[2]/div/div/a
+                     |                      | btn                  | a               | /html/body/main/div[2]/div[2]/div/a
+                     |                      | btn                  | a               | /html/body/main/div[2]/div[3]/div/a
+                     |                      | btn                  | a               | /html/body/main/div[2]/div[4]/div/a
+                     |                      | btn                  | a               | /html/body/main/div[2]/div[5]/div/a
+                     |                      | btn                  | a               | /html/body/main/div[2]/div[6]/div/a
+                     |                      | btn                  | a               | /html/body/main/div[2]/div[7]/div/a
+                     |                      | btn                  | a               | /html/body/main/div[2]/div[8]/div/a
+                     |                      | btn                  | a               | /html/body/main/div[2]/div[9]/div/a
+                     |                      |                      | a               | /html/body/footer/div/div[3]/div/a
+                     |                      |                      | a               | /html/body/footer/div/div[3]/div/a[2]
+                     |                      |                      | a               | /html/body/footer/div/div[3]/div/a[3]
+                     |                      |                      | a               | /html/body/footer/div/div[3]/div/a[4]
+==================================================
