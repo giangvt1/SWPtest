@@ -10,3 +10,4 @@ driver = webdriver.Chrome()
 # Navigate to the Amazon website
 driver.get("https://www.amazon.com")
 
+print("tao la bo chugn may, chung may la con tao")
